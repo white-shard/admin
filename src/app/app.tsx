@@ -1,3 +1,5 @@
+import { Button } from "@/shared/ui/button"
+
 export function App() {
-	return "ShardAdmin"
+	return <Button>ShardAdmin</Button>
 }
